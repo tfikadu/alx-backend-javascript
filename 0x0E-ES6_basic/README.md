@@ -1,1 +1,2 @@
-This is a README for my 0x0E-ES6_basic project!
+# 0x0E. ES6 Basics
+## Specializations - Web Stack programming ― Back-end
